@@ -21,3 +21,20 @@ README_midterm.txt
 CoEMIPS is a greatly simplified architecture. It has 8 registers, instructions are 16 bits, the native word size
 is 16 bits, 2’s complement and unsigned numbers are used, the instruction memory can hold 256 instructions
 and the data memory is 256 data words.
+
+### Files
+coemips_finalproject.circ
+* Complete project, done in Logisim
+
+CoEMIPS_instructions.pdf
+* Project description, functionality requirements and assembler manual 
+
+jrmipsasm.pl
+* Project assembler 
+
+Test cases
+* increment.asm Tests add
+* load.asm Tests loading from memory
+* addshift.asm More complete add, shift, branch tests
+* loadstore.asm Checks storing and loading
+* function.asm Tests jal and jr with load and store

@@ -1,6 +1,6 @@
 # Computer Organization and Assembly Language
 
-## Project Euler Problem 150 (Midterm)
+## Project Euler Problem 150 (Midterm Project)
 ### Goal: to implement an efficient solution to problem 150 of the Project Euler series (https://projecteuler.net/problem=150)
 
 ### Files
@@ -13,8 +13,9 @@ euler150_test.asm
 README_midterm.txt 
 * Please read this for an in depth explanation of my process to solving problem 150! 
 
-## Final Project
-### Goal: In this project, we’ll implement a single-cycle processor in Logisim that resembles MIPS. We’ll call the new processor and instruction set, CoEMIPS. Your processor will be capable of running small programs.
+## CoEMIPS Final Project
+
+### Goal: Implement a single-cycle processor in Logisim that resembles MIPS. We’ll call the new processor and instruction set, CoEMIPS. The processor will be capable of running small programs.
 
 ### CoEMIPS Programmer’s Reference Manual
 CoEMIPS is a greatly simplified architecture. It has 8 registers, instructions are 16 bits, the native word size

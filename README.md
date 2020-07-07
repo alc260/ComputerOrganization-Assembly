@@ -1,9 +1,9 @@
 # Computer Organization and Assembly Language
 
-### Project Euler Problem 150 (Midterm)
-# Goal: to implement an efficient solution to problem 150 of the Project Euler series (https://projecteuler.net/problem=150)
+# Project Euler Problem 150 (Midterm)
+### Goal: to implement an efficient solution to problem 150 of the Project Euler series (https://projecteuler.net/problem=150)
 
-# Files
+### Files
 1. ProjectEuler_prob150.asm: 
 This is the file with all the 4 test cases (2 small cases and 2 slightly big cases)
 

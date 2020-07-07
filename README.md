@@ -17,7 +17,6 @@ README_midterm.txt
 
 ### Goal: Implement a single-cycle processor in Logisim that resembles MIPS. We’ll call the new processor and instruction set, CoEMIPS. The processor will be capable of running small programs.
 
-### CoEMIPS Programmer’s Reference Manual
 CoEMIPS is a greatly simplified architecture. It has 8 registers, instructions are 16 bits, the native word size
 is 16 bits, 2’s complement and unsigned numbers are used, the instruction memory can hold 256 instructions
 and the data memory is 256 data words.
